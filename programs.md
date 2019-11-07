@@ -53,11 +53,11 @@ printf("%d",num1 + num2);
 
 **OUTPUT:**
 
-> Welcome to the program to add to nunber
-> Write the numbers to be added:
-> 40
-> 60
-> The sum of two number is:100
+> Welcome to the program to add to nunber  
+> Write the numbers to be added:  
+> 40  
+> 60  
+> The sum of two number is:100  
 
 
 **4)Program to convert temperature degree celcius to degree Farenheit**
@@ -66,7 +66,7 @@ printf("%d",num1 + num2);
 float temp_in_c, temp_in_f;
 int main(){
 printf("Welcome to the temperature converter\n");
-printf("Please Enter the temperature in degree celcius:\n");
+printf("Please Enter the temperature in degree celcius :\n");
 scanf("%f",&temp_in_c);
 temp_in_f = (temp_in_c * 9)/5  + 32;
 printf("%f",temp_in_f);
@@ -75,10 +75,10 @@ printf("%f",temp_in_f);
 
 OUTPUT:
 
-> Welcome to the temperature converter
-> Please Enter the temperature in degree celcius:
-> 45
-> 113
+> Welcome to the temperature converter  
+> Please Enter the temperature in degree celcius :  
+> 45  
+> 113  
 
 **5)Program to find area and perimeter of circle**
 ```C
@@ -101,9 +101,9 @@ int main()
 }
 ```
 **OUTPUT:**
-> Enter radius of circle: 2.34
-> Area of circle: 17.193384
-> Perimeter of circle: 14.695200
+> Enter radius of circle: 2.34  
+> Area of circle: 17.193384  
+> Perimeter of circle: 14.695200  
 
 **6) Program to find factorial of a number**
 
@@ -124,9 +124,9 @@ return 0;
 
 **OUTPUT:**
 
-> Enter the number whose factorial to be found:
-> 8
-> The factorial is 40320
+> Enter the number whose factorial to be found:  
+> 8  
+> The factorial is 40320  
 
 **7)Program to swap a number without using two numbers:**
 ```#include <stdio.h>
@@ -148,11 +148,11 @@ int main()
 ```
 
 **OUTPUT:**
-> Input two integers (a & b) to swap
-> 5
-> 8
-> a = 8
-> b = 5
+> Input two integers (a & b) to swap  
+> 5  
+> 8  
+> a = 8  
+> b = 5  
 
 
 **8)Program to check if the Number is odd or even:**
@@ -171,9 +171,9 @@ printf("The number id Odd");
 
 **OUTPUT:**
 
-> Please enter the number to check if it's even or odd:
-> 43
-> The number is Odd
+> Please enter the number to check if it's even or odd:  
+> 43  
+> The number is Odd  
 
 **9)Program to reverse a number**
 
@@ -193,9 +193,9 @@ int main()
 ```
 
 **OUTPUT**
-> Enter the number to be reversed: 
-> 986754
-> The reversed number is 457689
+> Enter the number to be reversed:   
+> 986754  
+> The reversed number is 457689  
 
 **10)Program of FizzBuzz:**
 
@@ -215,9 +215,9 @@ printf("FizzBuzz");
 ```
 
 **OUTPUT:**
-> Welcome to the Fizz Buzz Program
-> Enter The number:90
-> FizzBuzz
+> Welcome to the Fizz Buzz Program  
+> Enter The number:90  
+> FizzBuzz  
 
 **11)Program to show days of week using Switch Case:**
 ```C
@@ -263,8 +263,8 @@ int main()
 }
 ```
 **OUTPUT:**
-> Enter week number(1-7): 5
-> Friday
+> Enter week number(1-7): 5  
+> Friday  
 
 **12) Program of calculator using Switch Case:**
 
@@ -314,10 +314,10 @@ switch(op)
 
 **OUTPUT:**
 
-> Enter the First number:45
-> Enter the second number:35
-> What operation do you want to perform s for sum, b for subtract, d for divide , m for multiply m
-> The product of the chosen number is :1575
+> Enter the First number:45  
+> Enter the second number:35  
+> What operation do you want to perform s for sum, b for subtract, d for divide , m for multiply m  
+> The product of the chosen number is :1575  
 
 **13) Program to check a Leap year**
 
@@ -336,9 +336,9 @@ printf("The year is not a leap year");
 ```
 **OUTPUT:**
 
-> Hi welcome to the program that checks the leap yearPlease enter the value of the year
-> 2005
-> The year is not a leap year
+> Hi welcome to the program that checks the leap yearPlease enter the value of the year  
+> 2005  
+> The year is not a leap year  
 
 
 **14) Program to Check if a number is Prime**
@@ -369,9 +369,9 @@ printf("The number is composite\n");
 ```
 
 **OUTPUT:**
-> enter the number which you want check to wheather prime or not
-> 3
-> The number is prime
+> enter the number which you want check to wheather prime or not  
+> 3  
+> The number is prime  
 
 **15)Program to check if a number is Palindrome**
 
@@ -395,10 +395,10 @@ printf("sorry the number is not a palindrome");
 }
 ```
 **OUTPUT:**
-> Welcome to the palindrome function
-> Enter the number:
-> 234565432
-> oh yes ! You wrote a palindrome number
+> Welcome to the palindrome function  
+> Enter the number:  
+> 234565432  
+> oh yes ! You wrote a palindrome number  
 
 **16)Program to check a palindrome of Word**
    ```C
@@ -436,8 +436,8 @@ int main()
 
 ```
 **OUTPUT:**
-> abba is palindrome
-> abbccbba is palindrome
+> abba is palindrome  
+> abbccbba is palindrome  
 > geeks is Not Palindrome
 
 
