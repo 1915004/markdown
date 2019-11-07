@@ -101,9 +101,9 @@ int main()
 }
 ```
 **OUTPUT:**
->Enter radius of circle: 2.34
->Area of circle: 17.193384
->Perimeter of circle: 14.695200
+> Enter radius of circle: 2.34
+> Area of circle: 17.193384
+> Perimeter of circle: 14.695200
 
 **6) Program to find factorial of a number**
 
@@ -192,7 +192,7 @@ int main()
 }
 ```
 
-OUTPUT:
+**OUTPUT**
 > Enter the number to be reversed: 
 > 986754
 > The reversed number is 457689
@@ -859,18 +859,18 @@ printf("\n");}
 > Enter rows and column for second matrix: 3
 2
 > Enter elements of matrix 1:
-Enter elements a11: 3
-Enter elements a12: -2
-Enter elements a13: 5
-Enter elements a21: 3
-Enter elements a22: 0
-Enter elements a23: 4
+> Enter elements a11: 3
+> Enter elements a12: -2
+> Enter elements a13: 5
+> Enter elements a21: 3
+> Enter elements a22: 0
+> Enter elements a23: 4
 
 > Enter elements of matrix 2:
-Enter elements b11: 2
-Enter elements b12: 3
-Enter elements b21: -9
-Enter elements b22: 0
+> Enter elements b11: 2
+> Enter elements b12: 3
+> Enter elements b21: -9
+> Enter elements b22: 0
 > Enter elements b31: 0
 > Enter elements b32: 4
 
@@ -1166,20 +1166,20 @@ int main()
 }
 ```
 **OUTPUT:**
->Records of STUDENT : 1
->Id is: 1
->Name is: Abhishek
->Percentage is: 86.500000
+> Records of STUDENT : 1
+> Id is: 1
+> Name is: Abhishek
+> Percentage is: 86.500000
 >
->Records of STUDENT : 2
->Id is: 2
->Name is: Abhinav
->Percentage is: 90.500000
+> Records of STUDENT : 2
+> Id is: 2
+> Name is: Abhinav
+> Percentage is: 90.500000
 >
->Records of STUDENT : 3
+> Records of STUDENT : 3
 Id is: 3
->Name is: Tiwari
->Percentage is: 81.500000
+> Name is: Tiwari
+> Percentage is: 81.500000
 
 **31)Pointer or variable**
 ```C
@@ -1204,9 +1204,9 @@ int main () {
 }
 ```
 **OUTPUT**
->Address of var variable: bffd8b3c
->Address stored in ip variable: bffd8b3c
->Value of *ip variable: 20
+> Address of var variable: bffd8b3c
+> Address stored in ip variable: bffd8b3c
+> Value of *ip variable: 20
 
 
 
