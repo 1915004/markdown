@@ -463,28 +463,28 @@ b = c;
 ```
 **OUTPUT:**
 
-> Enter the first number of the series5
-> Enter the second number6
-> 11
-> 17
-> 28
-> 45
-> 73
-> 118
-> 191
-> 309
-> 500
-> 809
-> 1309
-> 2118
-> 3427
-> 5545
-> 8972
-> 14517
-> 23489
-> 38006
-> 61495
-> 99501
+> Enter the first number of the series5  
+> Enter the second number6  
+> 11  
+> 17  
+> 28  
+> 45  
+> 73  
+> 118  
+> 191  
+> 309  
+> 500  
+> 809  
+> 1309  
+> 2118  
+> 3427  
+> 5545  
+> 8972  
+> 14517  
+> 23489  
+> 38006  
+> 61495  
+> 99501  
 
 
 **18)Program to Enter and Display Elements of 1D Array:**
@@ -538,16 +538,16 @@ int main()
 ```
 **OUTPUT:**
 > Enter elements : 
->    Enter arr[0] : 1 
->    Enter arr[1] : 2 
->    Enter arr[2] : 3 
->    Enter arr[3] : 4 
->    Enter arr[4] : 5 
->    Enter arr[5] : 6 
->    Enter arr[6] : 7 
->    Enter arr[7] : 8 
->    Enter arr[8] : 9 
->    Enter arr[9] : 10 
+>    Enter arr[0] : 1   
+>    Enter arr[1] : 2   
+>    Enter arr[2] : 3    
+>    Enter arr[3] : 4    
+>    Enter arr[4] : 5   
+>    Enter arr[5] : 6   
+>    Enter arr[6] : 7   
+>    Enter arr[7] : 8   
+>    Enter arr[8] : 9  
+>    Enter arr[9] : 10   
 
     Elements are : 
 	    arr[0] : 1 
@@ -589,15 +589,15 @@ int main(){
 }
 ```
 **OUTPUT:**
-> Enter value for disp[0][0]:1
-> Enter value for disp[0][1]:2
-> Enter value for disp[0][2]:3
-> Enter value for disp[1][0]:4
-> Enter value for disp[1][1]:5
-> Enter value for disp[1][2]:6
-> Two Dimensional array elements:
-> 1 2 3 
-> 4 5 6 
+> Enter value for disp[0][0]:1  
+> Enter value for disp[0][1]:2  
+> Enter value for disp[0][2]:3  
+> Enter value for disp[1][0]:4  
+> Enter value for disp[1][1]:5  
+> Enter value for disp[1][2]:6  
+> Two Dimensional array elements:  
+> 1 2 3   
+> 4 5 6   
 
 **20) Program to add to Matrix:**
 ```#include<stdio.h>
@@ -639,30 +639,30 @@ printf("\n");}
 ```
 
 **OUTPUT:**
-> Welcome to the Matrix ProgramEnter the value of matrix A
-> 23
-> 67
-> 12
-> 89
-> 23
-> 78
-> 12
-> 65
-> 23
-> Enter the value of matrix B45
-> 67
-> 89
-> 23
-> 62
-> 48
-> 69
-> 52
-> 84
-> You have entered all the values of the matrix
-> Now the program is displaying the addition of  matrix
-> 68      134     101
-> 112     85      126
-> 81      117     107
+> Welcome to the Matrix ProgramEnter the value of matrix A  
+> 23  
+> 67  
+> 12  
+> 89  
+> 23  
+> 78  
+> 12  
+> 65  
+> 23  
+> Enter the value of matrix B45  
+> 67  
+> 89  
+> 23  
+> 62  
+> 48  
+> 69  
+> 52  
+> 84  
+> You have entered all the values of the matrix  
+> Now the program is displaying the addition of  matrix  
+> 68      134     101  
+> 112     85      126  
+> 81      117     107  
 
 **21)Program to Display Transpose of Matrix:**
 
@@ -705,20 +705,20 @@ printf("\n");}
 ```
 
 **OUTPUT:**
-> Welcome to the Matrix Transpose ProgramEnter the value of matrix34
-> 34
-> 56
-> 625
-> 536
-> 75
-> 68
-> 97
-> 07
-> You have entered all the values of the matrix
-> Now the program is displaying the transpose of matrix
-> 34      625     68
-> 34      536     97
-> 56      75      7
+> Welcome to the Matrix Transpose ProgramEnter the value of matrix34  
+> 34  
+> 56  
+> 625  
+> 536  
+> 75  
+> 68  
+> 97  
+> 07  
+> You have entered all the values of the matrix  
+> Now the program is displaying the transpose of matrix  
+> 34      625     68  
+> 34      536     97  
+> 56      75      7  
 
 
 **22)Program for Subtraction of 2 Matrix:**
@@ -761,30 +761,30 @@ printf("\n");}
 ```
 
 **OUTPUT:**
-> Welcome to the Matrix ProgramEnter the value of matrix A
-> 34
-> 26
-> 73
-> 84
-> 53
-> 15
-> 73
-> 86
-> 24
-> Enter the value of matrix B
-> 1
-> 57
-> 43
-> 57
-> 33
-> 10
-> 24
-> 46
-> 13
-> You have entered all the values of the matrix
-> Now the program is displaying the addition of  matrix-33        31      -30
-> -27     -20     -5
-> -49     -40     -11
+> Welcome to the Matrix ProgramEnter the value of matrix A  
+> 34  
+> 26  
+> 73  
+> 84  
+> 53  
+> 15  
+> 73  
+> 86  
+> 24  
+> Enter the value of matrix B  
+> 1  
+> 57  
+> 43  
+> 57  
+> 33  
+> 10  
+> 24  
+> 46  
+> 13  
+> You have entered all the values of the matrix  
+> Now the program is displaying the addition of  matrix-33        31      -30  
+> -27     -20     -5  
+> -49     -40     -11  
 
 **23)Program to Find Multiplication of Matrix**
 ```C
@@ -849,34 +849,34 @@ printf("\n");}
 ```
     
 **OUTPUT:**
-> Enter rows and column for first matrix: 3
-2
-> Enter rows and column for second matrix: 3
-2
-> Error! column of first matrix not equal to row of second.
-> Enter rows and column for first matrix: 2
-3
-> Enter rows and column for second matrix: 3
-2
-> Enter elements of matrix 1:
-> Enter elements a11: 3
-> Enter elements a12: -2
-> Enter elements a13: 5
-> Enter elements a21: 3
-> Enter elements a22: 0
-> Enter elements a23: 4
+> Enter rows and column for first matrix: 3  
+2  
+> Enter rows and column for second matrix: 3  
+2  
+> Error! column of first matrix not equal to row of second.  
+> Enter rows and column for first matrix: 2  
+3  
+> Enter rows and column for second matrix: 3  
+2  
+> Enter elements of matrix 1:  
+> Enter elements a11: 3  
+> Enter elements a12: -2  
+> Enter elements a13: 5  
+> Enter elements a21: 3  
+> Enter elements a22: 0  
+> Enter elements a23: 4  
 
-> Enter elements of matrix 2:
-> Enter elements b11: 2
-> Enter elements b12: 3
-> Enter elements b21: -9
-> Enter elements b22: 0
-> Enter elements b31: 0
-> Enter elements b32: 4
+> Enter elements of matrix 2:  
+> Enter elements b11: 2  
+> Enter elements b12: 3  
+> Enter elements b21: -9  
+> Enter elements b22: 0  
+> Enter elements b31: 0  
+> Enter elements b32: 4  
 
-> Output Matrix:
-> 24  29
-> 6  25
+> Output Matrix:  
+> 24  29  
+> 6  25  
 
 **24)Program to find square of a number using function**
 ```#include <stdio.h>
@@ -898,10 +898,10 @@ printf("The Answer is :%d\n",a*a);
 
 **OUTPUT:**
 
-> Welcome to the program to find the square of a number
-> Input the number you want to find square of:
-> 4
-> The Answer is:16
+> Welcome to the program to find the square of a number  
+> Input the number you want to find square of:  
+> 4  
+> The Answer is:16  
 
 
 **25)Program to swap two numbers by call by value**
@@ -933,23 +933,23 @@ printf("\n Value of a=%d,Value of b=%d after swaping\n",a,b);
 }
 ```
 **OUTPUT:**
-
->  Enter value for x:56
-> 
->  Enter value for y:45
-> 
->  Before calling swap functin
-> 
->  Value of x=56,Value of y=45
-> 
->  Inside the function 
-> 
->  Value of a=56,Value of b=45 before swaping
-> 
->  Value of a=45,Value of b=56 after swaping
-> 
->  After returning from swap function
->  Value of x=56,value of y=45
+ 
+>  Enter value for x:56  
+>  
+>  Enter value for y:45  
+>  
+>  Before calling swap functin  
+>  
+>  Value of x=56,Value of y=45  
+>  
+>  Inside the function   
+>  
+>  Value of a=56,Value of b=45 before swaping  
+>  
+>  Value of a=45,Value of b=56 after swaping  
+>  
+>  After returning from swap function  
+>  Value of x=56,value of y=45  
  
 
 **26)Program to swap two numbers by call by reference**
@@ -984,23 +984,23 @@ printf("\n Value of a=%d,Value of b=%d after swaping\n",*a,*b);
  
  **OUTPUT:**
  
- >  Enter value for x:23
-> 
->  Enter value for y:45
-> 
->  Before calling swap functin
-> 
->  Value of x=23,Value of y=45
-> 
->  Inside the function 
-> 
->  Value of a=23,Value of b=45 before swaping
-> 
->  Value of a=45,Value of b=23 after swaping
-> 
->  After returning from swap function
->  Value of x=45,value of y=23
-> 
+ >  Enter value for x:23  
+>  
+>  Enter value for y:45  
+>  
+>  Before calling swap functin  
+>  
+>  Value of x=23,Value of y=45  
+>  
+>  Inside the function  
+>  
+>  Value of a=23,Value of b=45 before swaping  
+>  
+>  Value of a=45,Value of b=23 after swaping  
+>  
+>  After returning from swap function  
+>  Value of x=45,value of y=23  
+>  
 
 **27)Program to Find factorial of a number using recursion:**
 ```#include <stdio.h>
@@ -1023,9 +1023,9 @@ if(num>1){
 return count;}
 ```
 **OUTPUT:**
-> Welcome to the program to find factorial by recursionWrite the number:
-> 8
-> The facorial is 40320
+> Welcome to the program to find factorial by recursionWrite the number:  
+> 8  
+> The facorial is 40320  
 
 **28)Program to Find fibonacci series using recursion:**
 
@@ -1036,33 +1036,33 @@ int add(int num1,
 
 **OUTPUT:**
 
-> Welcome to the program to write the fibonacci series by recursion
-> Write the first and second number of the series
-> 2
-> 3
-> How many terms you want in the fibonacci series
-> 20
-> The fibonacci series is
-> 2
-> 3
-> 5
-> 8
-> 13
-> 21
-> 34
-> 55
-> 89
-> 144
-> 233
-> 377
-> 610
-> 987
-> 1597
-> 2584
-> 4181
-> 6765
-> 10946
-> 17711
+> Welcome to the program to write the fibonacci series by recursion  
+> Write the first and second number of the series  
+> 2  
+> 3  
+> How many terms you want in the fibonacci series  
+> 20  
+> The fibonacci series is  
+> 2  
+> 3  
+> 5  
+> 8  
+> 13  
+> 21  
+> 34  
+> 55  
+> 89  
+> 144  
+> 233  
+> 377  
+> 610  
+> 987  
+> 1597  
+> 2584  
+> 4181  
+> 6765  
+> 10946  
+> 17711  
 
 **29)Program to add elements to a structure and display them**
 ```C
@@ -1103,25 +1103,25 @@ int main()
  
 ```
 **OUTPUT:**
-> Enter information of students: 
->
-> For roll number1,
-> Enter name: Tom
-> Enter marks: 98
->
-> For roll number2,
-> Enter name: Jerry
-> Enter marks: 89
-> .
-> .
-> .
-> Displaying Information:
-> Roll number: 1
-> Name: Tom
-> Marks: 98
-> .
-> .
-> .
+> Enter information of students:  
+>  
+> For roll number1,  
+> Enter name: Tom  
+> Enter marks: 98  
+>  
+> For roll number2,  
+> Enter name: Jerry  
+> Enter marks: 89  
+> .  
+> .  
+> .  
+> Displaying Information:  
+> Roll number: 1  
+> Name: Tom  
+> Marks: 98  
+> .  
+> .  
+> .  
 
 **30) Array using structure**
 ```C
@@ -1166,20 +1166,20 @@ int main()
 }
 ```
 **OUTPUT:**
-> Records of STUDENT : 1
-> Id is: 1
-> Name is: Abhishek
-> Percentage is: 86.500000
->
-> Records of STUDENT : 2
-> Id is: 2
-> Name is: Abhinav
-> Percentage is: 90.500000
->
-> Records of STUDENT : 3
-Id is: 3
-> Name is: Tiwari
-> Percentage is: 81.500000
+> Records of STUDENT : 1  
+> Id is: 1  
+> Name is: Abhishek  
+> Percentage is: 86.500000  
+>  
+> Records of STUDENT : 2  
+> Id is: 2  
+> Name is: Abhinav  
+> Percentage is: 90.500000  
+>  
+> Records of STUDENT : 3  
+Id is: 3  
+> Name is: Tiwari  
+> Percentage is: 81.500000  
 
 **31)Pointer or variable**
 ```C
@@ -1204,9 +1204,9 @@ int main () {
 }
 ```
 **OUTPUT**
-> Address of var variable: bffd8b3c
-> Address stored in ip variable: bffd8b3c
-> Value of *ip variable: 20
+> Address of var variable: bffd8b3c  
+> Address stored in ip variable: bffd8b3c  
+> Value of *ip variable: 20  
 
 
 
