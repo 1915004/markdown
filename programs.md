@@ -31,11 +31,11 @@ puts("800020");
 
 **OUTPUT:**
 
-> Abhishek Kumar Sinha
-> Near House No. A/23
-> Chitragupt Nagar,Kankarbagh
-> Patna
-> 800020
+>Abhishek Kumar Sinha
+>Near House No. A/23
+>Chitragupt Nagar,Kankarbagh
+>Patna
+>800020
 
 **3) Program to find sum 0f two number:**
 
